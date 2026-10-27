@@ -1,0 +1,2 @@
+-r requirements.txt
+# Formula integration tests use Python unittest (standard library) and LibreOffice soffice.
